@@ -26,3 +26,6 @@ http://shogun-toolbox.org/notebook/latest/gaussian_processes.html
 https://github.com/keyonvafa/Gaussian-Process
 
 https://github.com/muatik/machine-learning-examples/blob/master/gaussianprocess2.ipynb
+
+
+https://github.com/modulabs/kor-math-of-intelligence
