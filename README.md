@@ -19,3 +19,5 @@ http://mlg.eng.cam.ac.uk/zoubin/
 
 
 https://github.com/dfm/gp/blob/master/solutions.ipynb
+
+http://shogun-toolbox.org/notebook/latest/gaussian_processes.html
