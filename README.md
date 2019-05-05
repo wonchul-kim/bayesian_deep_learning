@@ -11,3 +11,7 @@ This is a space just for studying bayesian deep learning.
 
 
 https://github.com/peterroelants/peterroelants.github.io/blob/master/notebooks/gaussian_process/gaussian-process-tutorial.ipynb
+
+
+
+http://mlg.eng.cam.ac.uk/zoubin/
