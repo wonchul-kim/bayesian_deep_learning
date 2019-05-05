@@ -1,7 +1,9 @@
-# bayesian_deep_learning
+## bayesian_deep_learning
 
 This is a space just for studying bayesian deep learning.
 
+
+# papers
 
 
 # references
