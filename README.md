@@ -15,3 +15,7 @@ https://github.com/peterroelants/peterroelants.github.io/blob/master/notebooks/g
 
 
 http://mlg.eng.cam.ac.uk/zoubin/
+
+
+
+https://github.com/dfm/gp/blob/master/solutions.ipynb
