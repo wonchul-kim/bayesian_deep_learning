@@ -7,7 +7,11 @@ This is a space just for studying bayesian deep learning.
 
 
 ### references
+0. [Rasmussen and Christopher](http://www.gaussianprocess.org/gpml/)
+
 1. [Introduction to bayeisan deep learning](https://taeoh-kim.github.io/blog/bayesian-deep-learning-introduction/)
+
+2. [Implement GP with numpy](https://github.com/krasserm/bayesian-machine-learning)
 
 
 https://github.com/peterroelants/peterroelants.github.io/blob/master/notebooks/gaussian_process/gaussian-process-tutorial.ipynb
@@ -20,10 +24,7 @@ http://mlg.eng.cam.ac.uk/zoubin/
 
 https://github.com/dfm/gp/blob/master/solutions.ipynb
 
-http://shogun-toolbox.org/notebook/latest/gaussian_processes.html
 
-
-https://github.com/keyonvafa/Gaussian-Process
 
 https://github.com/muatik/machine-learning-examples/blob/master/gaussianprocess2.ipynb
 
