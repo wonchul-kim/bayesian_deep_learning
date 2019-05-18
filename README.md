@@ -13,6 +13,16 @@ This is a space just for studying bayesian deep learning.
 
 2. [Implement GP with numpy](https://github.com/krasserm/bayesian-machine-learning)
 
+3. [bayesian optimization explanation](http://research.sualab.com/introduction/practice/2019/02/19/bayesian-optimization-overview-1.html)
+
+
+https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f
+
+https://github.com/WillKoehrsen/hyperparameter-optimization
+
+
+
+
 
 https://github.com/peterroelants/peterroelants.github.io/blob/master/notebooks/gaussian_process/gaussian-process-tutorial.ipynb
 
